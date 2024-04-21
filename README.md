@@ -24,4 +24,4 @@ HealthSync is a web application designed to help users track their health metric
 ![PAGE4](https://github.com/Lohithchowdari/HealthSync/assets/113517733/1b3cc894-2538-4ce5-87d5-156216ca6544)
 ### PAGE 5
 ![PAGE5](https://github.com/Lohithchowdari/HealthSync/assets/113517733/0629a980-ca9b-485a-93d3-7c4da3226ee6)
-### WEBSITE LINK
+### WEBSITE LINK : https://proud-sky-0f4762200.5.azurestaticapps.net/
