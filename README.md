@@ -12,7 +12,7 @@ HealthSync is a web application designed to help users track their health metric
 
 ## Technologies Used
 
-- Frontend: HTML, CSS.
+- Frontend: HTML,CSS.
 - health bot microsoft azure framwork.
 ### PAGE1
 ![WhatsApp Image 2024-04-21 at 23 03 23_26886d7c](https://github.com/Lohithchowdari/HealthSync/assets/113517733/d12ec4db-a7f2-4dce-9929-6fdf3cc21436)
